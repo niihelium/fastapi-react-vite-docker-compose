@@ -1,0 +1,4 @@
+-r requirements.txt
+tqdm==4.66.2
+ipykernel==6.29.4
+ipywidgets==8.1.2
